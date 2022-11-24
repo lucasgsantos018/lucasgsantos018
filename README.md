@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=010406&width=435&lines=Hello!;My+name+is+Lucas.;Welcome+to+my+git%2C+enjoy.!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=010406&width=435&lines=Hello!;My+name+is+Lucas.;Welcome+to+my+git%2C+enjoy!!)](https://git.io/typing-svg)
 
 <!--
 **lucasgsantos018/lucasgsantos018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
